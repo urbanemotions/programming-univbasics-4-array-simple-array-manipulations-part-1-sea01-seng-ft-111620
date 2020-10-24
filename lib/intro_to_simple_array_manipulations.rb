@@ -1,11 +1,11 @@
 def using_push(array, string)
   array.push(string)
-  p array
+  #p array
 end
 
 def using_unshift(array, string)
   array.unshift(string)
-  p array
+  #p array
   p array.length
 end
 
