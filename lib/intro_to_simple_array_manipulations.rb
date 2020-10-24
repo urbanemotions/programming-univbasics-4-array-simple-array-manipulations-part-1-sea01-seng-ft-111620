@@ -10,3 +10,8 @@ def using_pop(array)
   remove_last = array.pop
   return remove_last
 end
+
+def pop_with_args(array)
+  remove_last_two = array.pop
+  remove_last_two = array.pop[]
+end
