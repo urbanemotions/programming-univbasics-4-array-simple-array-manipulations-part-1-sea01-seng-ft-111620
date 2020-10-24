@@ -8,7 +8,7 @@ end
 
 def using_pop(array)
   remove_last = array.pop
-  return remove_last
+  #return remove_last
 end
 
 def pop_with_args(array)
