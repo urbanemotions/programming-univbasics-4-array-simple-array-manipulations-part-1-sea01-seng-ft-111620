@@ -14,6 +14,6 @@ end
 def pop_with_args(array)
   remove_last = array.pop
   remove_2nd_last = array.pop
-  return remove_last && 
-   remove_2nd_last
+  #return remove_last && 
+  # remove_2nd_last
 end
